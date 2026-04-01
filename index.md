@@ -23,6 +23,7 @@ Favorite foods:
 Things I got to do today:
 - [x] Wake up
 - [x] Do this assignment
+- [ ] Eat lunch
 - [ ] Go to sleep
 
 ---
