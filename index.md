@@ -27,12 +27,9 @@ Things I got to do today:
 - [ ] Go to sleep
 
 ---
-$$
-L_o(\mathbf{x}, \omega_o) = L_e(\mathbf{x}, \omega_o) + \int_{\Omega} f_r(\mathbf{x}, \omega_i, \omega_o) \, L_i(\mathbf{x}, \omega_i) \, (\omega_i \cdot \mathbf{n}) \, d\omega_i
-$$
-> My favorite equation
 
-Here is some code:
+> Here is some code
+
 ```C++
 void Camera::look_at(const glm::vec3& target, const glm::vec3& up) {
     m_forward = glm::normalize(target - m_pos);
