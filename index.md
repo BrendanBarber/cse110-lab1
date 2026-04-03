@@ -1,17 +1,19 @@
 # Brendan Barber
 
-Hello! My name is Brendan and I am interested in graphics programming.
+Hello! My name is **Brendan** and I am interested in graphics programming.
 
 *I love bridging the gap between artistic vision and technical implementation, whether that's building VFX tools for artists or creating video games. When I'm not coding, you'll find me practicing violin, playing casual ice hockey, or getting lost in a good book.*
 
 ---
+
+## Lists of stuff
 
 Some books I am reading:
 - "Dune" by Frank Herbert 
 - "Salt Sugar Fat" by Michael Moss
 
 Some games I am playing:
-- Silksong
+- ~~Silksong~~
 - Hytale
 - Kingdom Come Deliverance II
 
@@ -19,6 +21,8 @@ Favorite foods:
 1. California Burrito
 2. Smash Burger
 3. Sushi (Philidelphia Roll)
+
+### Checklist
 
 Things I got to do today:
 - [x] Wake up
