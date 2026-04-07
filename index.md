@@ -54,6 +54,6 @@ Here are some screenshots of my git commands from this lab:
 ![Image](screenshots/Part2-1.png)
 
 And then for the VSCode UI commit:
-[Committing a .gitignore](Part2-3.png)
+[Committing a .gitignore](https://github.com/BrendanBarber/cse110-lab1/blob/a3199af2b6b9f8478ddee3f48b4ef210f596a175/screenshots/Part2-3.png)
 
 [Jump to top](#brendan-barber)
